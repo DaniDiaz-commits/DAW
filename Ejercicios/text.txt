@@ -1,6 +1,0 @@
-Información del sistema operativo:
---------------------
-Nombre del sistema operativo: win32
-Versión del sistema operativo: 10.0.22631
-Memoria libre en MB: 19849.86
-CPUs: 20
