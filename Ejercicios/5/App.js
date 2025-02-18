@@ -56,7 +56,7 @@ export function App() {
             : React.createElement("span", {}, task),
           React.createElement(
             "div",
-            { className: "buttons" }, // Contenedor de botones alineados a la derecha
+            { className: "buttons" },
             editingIndex === index
               ? React.createElement(
                   "button",
